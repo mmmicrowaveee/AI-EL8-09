@@ -1,4 +1,4 @@
-[readme_expert_system_fuzzy_control.md](https://github.com/user-attachments/files/33528966/readme_expert_system_fuzzy_control.md)
+
 
 <div align="center">
 
